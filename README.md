@@ -1,16 +1,24 @@
 # 📊 FinSight Financial Transactions Analytics Dashboard (2023–2026)
 
-A Power BI dashboard project designed to analyze financial transactions, revenue generation, fees, taxes, and customer behavior across multiple years. The dashboard provides business stakeholders with a comprehensive view of transaction performance, customer segments, operational efficiency, and revenue trends to support strategic decision-making.
+## Power BI Interactive Dashboard | Data Analyst Portfolio Project
 
 ---
 
-# Project Title
+## 📑 Table of Contents
 
-**FinSight Financial Transactions Analytics Dashboard | Power BI**
+- [Project Overview](#-project-overview)
+- [Business Problem](#-business-problem)
+- [Dashboard Preview](#-dashboard-preview)
+- [Dataset Information](#dataset-information)
+- [Key Findings](#-key-findings)
+- [Actionable Recommendations](#-actionable-recommendations)
+- [Technical Skills Demonstrated](#️-technical-skills-demonstrated)
+- [Tools & Technologies](#️-tools--technologies)
+- [Project Outcome](#-project-outcome)
+- [Author](#-author)
 
 ---
-
-# Project Overview
+# 📌 Project Overview
 
 FinSight is a Business Intelligence solution developed in Power BI to monitor and analyze financial transactions from 2023 to 2026.
 
@@ -28,7 +36,7 @@ The dashboard enables management teams to monitor financial performance, identif
 
 ---
 
-# Business Problem
+# 🎯 Business Problem
 
 Financial institutions process thousands of transactions daily across different customer segments, transaction types, and geographic regions.
 
@@ -54,7 +62,7 @@ This dashboard was developed to provide actionable insights that support operati
 
 ---
 
-# Dashboard Preview
+# 📊 Dashboard Preview
 
 ## Executive Overview Dashboard
 
@@ -123,7 +131,7 @@ The dataset contains financial transaction records from **2023–2026**.
 
 ---
 
-# Key Findings
+# 🔍 Key Findings
 
 ## 1. Business Processed Over $125M in Transaction Value
 
@@ -243,7 +251,7 @@ Ancillary revenue streams provide additional financial value beyond transaction 
 
 ---
 
-# Actionable Recommendations
+# 💡 Actionable Recommendations
 
 ## Recommendation 1: Strengthen Retail Customer Retention
 
@@ -353,7 +361,7 @@ Growth in transaction value and profitability.
 
 ---
 
-# Technical Skills Demonstrated
+# 🛠️ Technical Skills Demonstrated
 
 ### Data Preparation
 
@@ -386,7 +394,7 @@ Growth in transaction value and profitability.
 
 ---
 
-# Tools & Technologies
+# 🛠️ Tools & Technologies
 
 - Power BI
 - DAX
@@ -397,29 +405,7 @@ Growth in transaction value and profitability.
 
 ---
 
-# Repository Structure
-
-```bash
-finsight-financial-analytics-dashboard/
-│
-├── Dataset/
-│   └── financial_transactions.xlsx
-│
-├── Dashboard/
-│   └── FinSight_Analytics.pbix
-│
-├── Images/
-│   ├── finsight-overview.png
-│   └── finsight-transactions.png
-│
-├── README.md
-│
-└── LICENSE
-```
-
----
-
-# Project Outcome
+# 📂 Project Outcome
 
 The FinSight Financial Transactions Dashboard provides a centralized analytics platform for monitoring financial performance, transaction efficiency, customer behavior, and revenue generation.
 
@@ -429,6 +415,6 @@ The insights generated enable stakeholders to improve operational efficiency, op
 
 ---
 
-## Author
+## 👤 Author
 
 **Hafiz Riyadho** | Data Analytics Portfolio Project
